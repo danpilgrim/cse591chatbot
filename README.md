@@ -46,6 +46,7 @@ emotional, get leads where they fall, offer free stuff
 
 ## Information
 •General
+- Product Name
 - Example past product names
 - Prices
 - Limited Promotions
