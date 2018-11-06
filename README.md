@@ -43,3 +43,14 @@ show reccomendations, friends, premptively
 
 • Too much push -  
 emotional, get leads where they fall, offer free stuff
+
+## Information
+•General
+ - Example past product names
+ - Prices
+ - Limited Promotions
+ - Free Samples
+ - Reccomendations
+•Personal
+ - email
+ - name
