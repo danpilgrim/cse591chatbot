@@ -63,45 +63,74 @@ emotional, get leads where they fall, offer free stuff
 1. Hello, how are you? What is your name? #intro
 
 2. What brought you to this site? #solidifies intention
+
 if (tryingtoBuy)
+
 	continue
+	
 elif (noResponse)
+
 	elicitAttention
+	
 else (notsure)
+
 	persuade()
+	
 3. Would you like to be redirected to the purchase page?
+
 4. Who would you recommend this purchase for?
 
 
 def persuade:
+
+
  *Reciprocity 
+ 
  trigger: Budget
+ 
  Would you like a [free sample]?
 
  *Commitment (unneeded?)
+ 
  trigger: used product, happy
+ 
  If [free sample | product] helps, want to leave a review?
+ 
  Would any of your friend's like to try [free sample | product]
 
+
  *Authority
+ 
  trigger: No Need
+ 
  [recommendations]
-  use them
-  How would you use our product?
+ 
+ How would you use our product?
+
 
  *Commitment
+ 
  trigger: gatekeeper
+ 
  Where could we reach {you | gatekeeper} at?
- trigger: 
 
  *Social Proof
+ 
  Trigger: roof of Product/Quality of Product
+ 
  [recommendations]
+ 
   use them
+  
   You get what you pay for
+  
 
 def elicitAttention:
+
  Limited Time Offer
+ 
  Gifs
+ 
  Who knows
+ 
 
