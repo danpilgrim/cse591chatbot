@@ -1,0 +1,63 @@
+#
+Salesperson: Hi, are you looking for something in particular?
+Customer: Yeah, I saw this set of wireless headphones on your website at a really good price. I think it was 50% off or something like that.
+Salesperson: Unfortunately we only had that offer last weekend, after Black Friday.
+Customer: Hmm, I’m really disappointed. Have you run out of stock?
+Salesperson: We still have the headphones, but they are only 20% off now. It’s still a very good price.
+Customer: I guess I’ll just wait for the after-Christmas sales.
+Salesperson: I could offer you something even better at the same 20% off price. The headphones you wanted don’t have a wired option, and we have another set that has this option.
+Customer: But I don’t want a wired option, I want them to be wireless.
+Salesperson: Yeah, I totally get you. But you see, these are wireless and have an extra feature. After your battery runs out, you can still use them if you plug the cable in. That’s just until they’re charged again. This way, you aren’t left without your music when the batteries run out.
+Customer: Hmm, that sounds great, but how long do the batteries last?
+Salesperson: Around 20 hours, but it depends on the volume level.
+Customer: 20 hours is pretty good. But then would I still be needing the wired option? I mean, if the batteries last so long…
+Salesperson: This is a better product than the one we had on 50% off last weekend. You’d be paying a bit more, but the added feature makes all the difference. And yes, I think the wired option is worth it. Once you get used to batteries lasting so long, you may forget to charge them in advance and then you need to stop your music and charge them. Really inconvenient, if you ask me.
+Customer: I guess you’re right. Okay, I’ll go with those. Can I pay for them now?
+Salesperson: Sure, do you want them packed as a gift?
+Customer: Not really, they’re for me.
+Salesperson: Here you are. Thank you! I hope you enjoy the headphones.
+Customer: Thank you for your help!
+#
+Customer: I guess I like this one in black more than the other one in grey.
+Salesperson: Great! If I place an order now, you’ll get it by tomorrow morning.
+Customer: Sure, I’d like that.
+Salesperson: We need an advance payment guarantee of 20%. You’ll pay the remaining 80% when you get the product.
+Customer: That sounds great, thank you!
+Customer: This seems to look better on me than the other one, doesn’t it?
+Salesperson: I like this one more too. Do you want to use our installment system or buy it now at a discount?
+Customer: I’d rather pay up-front and get the discount. How much is it?
+Salesperson: 10%
+Customer: Cool, let’s do this.
+Customer: I bought this product here last week, but it’s already broken. I’m so angry because I paid a lot of money for it!
+Salesperson: I understand you are upset. If you have the warranty certificate, we should be able to replace it for you.
+Customer: I don’t want a replacement! What if that breaks down too? I want my money back!
+Salesperson: I’m afraid we don’t have that option. You could, however, choose another product in this price range.
+#
+Customer: I’m not sure I like this product in this color.
+Salesperson: We can also order it in black or blue. Which color would you prefer?
+Customer: Maybe I shouldn’t buy a new laptop. My old laptop is still doing a pretty good job.
+Salesperson: I totally understand you. I loved my old laptop so much that I didn’t want to replace it, but now I simply don’t know how I’d live without my new laptop. There are so many improvements in new versions of electronics!
+Customer: Yeah, maybe, I’m not sure…
+Salesperson: For instance, this newer version has this amazing feature which allows you to…
+#
+Customer: What is the warranty on this product?
+Salesperson: I’m not sure, but let me check that for you… Okay, I see now. The warranty covers your product for 3 years.
+Customer: How long does the battery last in this phone?
+Salesperson: It should last around 36 hours, but it depends on how you’re using your phone.
+Customer: What if I can’t figure out how to use this product?
+Salesperson: You can always drop in or give us a call. We’ll be more than happy to help!
+#
+Salesperson "I wanted to follow up on the proposal we submitted and answer any questions or concerns you might have."
+Buyer: (To herself) "Their proposal didn't address my needs and I am leaning towards another company. Should I share my real concerns or just tell her everything is fine? I am really not in the mood for another sales pitch right now."
+Buyer (To salesperson) "I don't have any questions. Everything looks fine. I have a call right now and I need to jump off."
+Salesperson (To herself) "Sounds like something is a bit off. Should I probe more and see what is going on?
+Salesperson "Great to hear! I look forward to hearing your decision when you are ready."
+#
+Hi, John. Jim here from Acme Cost Control.
+Did I catch you at an OK time?
+John, I’m sure you’re busy and I want to respect your time, so I’ll be brief.
+The reason for my call is this. We just saved Universal Transport an additional $12 million in shipping costs, so I thought it was important enough to let you know, since every company has an obligation to their customers and shareholders to reduce expenses.
+Now, you may be wondering if we can do this for you, too. Well, depending on what you’re currently doing, I don’t know if you have a need for our services.
+But with your permission, let’s talk for a few minutes to determine if there is anything we’re doing that you could benefit from.
+Would you be comfortable spending just a few minutes with me on the phone now, if I stick to this timetable?
+#
