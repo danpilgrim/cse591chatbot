@@ -1,0 +1,21 @@
+{
+  "states": [
+    "intent_goodbye", 
+    "intent_greet", 
+    "intent_user_buy", 
+    "intent_user_certain", 
+    "intent_user_response", 
+    "intent_user_uncertain", 
+    "prev_action_listen", 
+    "prev_action_restart", 
+    "prev_action_default_fallback", 
+    "prev_utter_greet", 
+    "prev_utter_question", 
+    "prev_utter_amplify_pain", 
+    "prev_utter_judge_certainty", 
+    "prev_utter_close", 
+    "prev_utter_loop", 
+    "prev_utter_congrats", 
+    "prev_utter_goodbye"
+  ]
+}

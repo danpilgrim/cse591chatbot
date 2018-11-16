@@ -1,0 +1,43 @@
+actions:
+- utter_greet
+- utter_question
+- utter_amplify_pain
+- utter_judge_certainty
+- utter_close
+- utter_loop
+- utter_congrats
+- utter_goodbye
+config:
+  store_entities_as_slots: true
+entities: []
+intents:
+- user_buy:
+    use_entities: true
+- goodbye:
+    use_entities: true
+- user_certain:
+    use_entities: true
+- user_uncertain:
+    use_entities: true
+- user_response:
+    use_entities: true
+- greet:
+    use_entities: true
+slots: {}
+templates:
+  utter_amplify_pain:
+  - text: How many hours can you save by taking a Lime?
+  utter_close:
+  - text: That's wonderful? So how many purchases are we looking at?
+  utter_congrats:
+  - text: Congrats! You've made a wise decision.
+  utter_goodbye:
+  - text: Bye!
+  utter_greet:
+  - text: Hey! How are you?
+  utter_judge_certainty:
+  - text: So how do you feel about this product?
+  utter_loop:
+  - text: I feel what you're saying. But what do you think of the idea?
+  utter_question:
+  - text: So what are you looking for today?
